@@ -1,3 +1,9 @@
+# 이번에 Debugging 과제임에도 불구하고, code 내용들도 이해 하려는 모습 멋있습니다. Debugging은 PyCharm뿐만 아니라, visual Studio 등의 대부분의 editor 및 개발환경에서 사용할 수 있으며, 그 방법 또한 비슷합니다. 이번 기회에 강력한 도구를 얻으셨네요. 축하합니다.
+
+## 추가로 tip을 드리자면, step-over, step-into 등을 통해 작성된 코드들을 하나 하나씩, 더 깊이 볼 수 있습니다.
+
+
+
 #screenshot image: https://drive.google.com/open?id=1VH_Sr5KteiyTfWKaeMOk4OLWt0BDakQE
 
 %matplotlib inline
