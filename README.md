@@ -1,1 +1,1 @@
-고유진의 GITHUB
+2020 Machine learning programming
